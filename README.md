@@ -1,6 +1,6 @@
 # EjercicioTypescript
 
-Ejercicio 2Pe
+Ejercicio 2
 Crea una clase llamada Cuenta que tendrá los siguientes atributos: titular (que es una persona) y cantidad (puede tener decimales). El titular será obligatorio y la cantidad es opcional. Construye los siguientes métodos para la clase:
 
 Un constructor, donde los datos pueden estar vacíos.
